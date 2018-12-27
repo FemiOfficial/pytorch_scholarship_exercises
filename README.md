@@ -1,0 +1,1 @@
+# pytorch_scholarship_exercises
